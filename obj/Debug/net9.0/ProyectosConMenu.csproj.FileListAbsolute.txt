@@ -1,0 +1,14 @@
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.GeneratedMSBuildEditorConfig.editorconfig
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.AssemblyInfoInputs.cache
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.AssemblyInfo.cs
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.csproj.CoreCompileInputs.cache
+/home/salva_ms/ProyectosConMenu/bin/Debug/net9.0/ProyectosConMenu
+/home/salva_ms/ProyectosConMenu/bin/Debug/net9.0/ProyectosConMenu.deps.json
+/home/salva_ms/ProyectosConMenu/bin/Debug/net9.0/ProyectosConMenu.runtimeconfig.json
+/home/salva_ms/ProyectosConMenu/bin/Debug/net9.0/ProyectosConMenu.dll
+/home/salva_ms/ProyectosConMenu/bin/Debug/net9.0/ProyectosConMenu.pdb
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.dll
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/refint/ProyectosConMenu.dll
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.pdb
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ProyectosConMenu.genruntimeconfig.cache
+/home/salva_ms/ProyectosConMenu/obj/Debug/net9.0/ref/ProyectosConMenu.dll
